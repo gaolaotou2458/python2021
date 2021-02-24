@@ -31,7 +31,9 @@ l1 = ['alex', 'wusir', 'taibai', '静女神', '文洲', '日天']
 #     name_list.append(username)
 # print(name_list)
 
-'''extend 迭代追加'''
+'''insert(index,元素)插入'''
+
+'''extend(iterable) 迭代追加'''
 # l1.extend('abc')
 # l1.extend([111,222,333])
 # l1.extend(['alex', 'sb'])
