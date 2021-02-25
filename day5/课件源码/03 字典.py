@@ -116,10 +116,10 @@ dic = {'k1': "v1", "k2": "v2", "k3": [11,22,33]}
 # dic.update({'k3':ss})
 # print(dic)
 
-# for i in dic.items():
-#     #i = ('name', '太白')
-#     #i = ('age', 18)
-#     print(i)
+for k,v in dic.items():
+    #i = ('name', '太白')
+    #i = ('age', 18)
+    print(k,v)
 
 
 
