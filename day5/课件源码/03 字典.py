@@ -102,8 +102,8 @@ dic = {'k1': "v1", "k2": "v2", "k3": [11,22,33]}
 # dic.setdefault('k4','v4')
 # print(dic)
 # 请在修改字典中 "k1" 对应的值为 "alex"，输出修改后的字典
-# dic.update({"k1":'alex'})
-# print(dic)
+dic.update({"k1":'alex'})
+print(dic)
 # 请在k3对应的值中追加一个元素 44，输出修改后的字典
 # ss = dic.get('k3')
 # ss.append(44)
@@ -116,10 +116,10 @@ dic = {'k1': "v1", "k2": "v2", "k3": [11,22,33]}
 # dic.update({'k3':ss})
 # print(dic)
 
-for k,v in dic.items():
-    #i = ('name', '太白')
-    #i = ('age', 18)
-    print(k,v)
+# for k,v in dic.items():
+#     #i = ('name', '太白')
+#     #i = ('age', 18)
+#     print(k,v)
 
 
 

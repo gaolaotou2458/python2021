@@ -149,16 +149,16 @@
 
 
 # is 系列
-# name = 'taibai'
+name = 'taibai太白'
 # name1 = 'a123'
 # print(name.isalnum())  # 数字或字母组成
 # print(name1.isdigit())  # 判断全部是由整数组成
 # print(name.isalpha())  # 全部由字母组成
-
+print(name.isalpha())
 # 公共方法
-name = 'alexaaa'
-print(name.count('a'))  # 有切片
-print(len(name))
+# name = 'alexaaa'
+# print(name.count('a'))  # 有切片
+# print(len(name))
 
 
 
