@@ -15,7 +15,7 @@
 # 可迭代对象满足可迭代协议。
 
 # 可迭代对象：str list dict,tuple,set,range()
-s1 = 'strs'
+# s1 = 'strs'
 # print(dir(s1))
 
 # 判断一个对象是否是可迭代对象：
@@ -23,12 +23,14 @@ s1 = 'strs'
 # dic = {'name':'alex'}
 # print('__iter__' in dir(s1))
 # print('__iter__' in dir(dic))
+# print('__next__' in dir(dic)) #false
 #第二种方法
-from collections import Iterable
-from collections import Iterator
-
+# from collections.abc import Iterable
+# from collections.abc import Iterator
+#
 # print(isinstance('alex',Iterable))  # True
-# print(isinstance('alex',Iterator))  # True
+# print(isinstance('alex',Iterator))  # False
+# print(isinstance(iter('alex'),Iterator))  # True
 
 # print(isinstance('alex',str))
 
@@ -49,7 +51,9 @@ from collections import Iterator
 # lis = [1, 2, 3]  # 可迭代对象
 # # ite1 = lis.__iter__()  # 迭代器  <list_iterator object at 0x0000027A183BFFD0>
 # ite1 = iter(lis)  # 迭代器  <list_iterator object at 0x0000027A183BFFD0>
-# print(ite1)
+# print(ite1.__next__())
+# print(ite1.__next__())
+# print(ite1.__next__())
 
 # 迭代器如何取值？  next一次，取一个值
 # print(ite1.__next__())
@@ -69,13 +73,14 @@ s1 = 'kfdsjl'
 # 1,将可迭代对象转化成迭代器。
 # 2，调用__next__方法取值。
 # 3，利用异常处理停止报错。
-# iter1 = s1.__iter__()
+iter1 = s1.__iter__()
+print(iter1)
 #
-# while 1:
-#     try:
-#         print(iter1.__next__())
-#     except StopIteration:
-#         break
+while 1:
+    try:
+        print(iter1.__next__(),'stop')
+    except StopIteration:
+        break
 
 # l1 = [i for i in range(100)]
 # print(l1)

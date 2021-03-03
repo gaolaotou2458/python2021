@@ -1,56 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d174763-087d-49c1-b587-40b15ed7fca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day07/作业.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08-1/购物车作业.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08-1/购物车作业.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/02 作业讲解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/03 函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/register" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/源码/01 今日内容大纲" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/源码/02 作业讲解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/源码/03 函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/源码/a1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/源码/a2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/源码/namelist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/03 函数动态参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/04 命名空间.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/05 函数的嵌套.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/06 今日作业.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/源码/01 今日内容大纲" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/源码/02 作业讲解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/源码/03 函数 动态参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/源码/04 名称空间，作用域，取值顺序等.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/源码/05 函数的嵌套.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/02 作业.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/02 作业答案.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/函数名的应用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/源码/01 今日内容大纲" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/源码/02 作业讲解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/源码/03 函数名的应用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/源码/04 闭包.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/源码/05 迭代器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/源码/register" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/排序逻辑.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/文件操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/源码/01 今日内容大纲" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/源码/02 作业讲解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/源码/03 文件操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/源码/alex的深度剖析" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/源码/day08 作业讲解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/源码/文件操作1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/源码/文件操作1(1)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/源码/文件操作2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/源码/文件操作3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/源码/美女1.jpg" afterDir="false" />
+    <list default="true" id="2d174763-087d-49c1-b587-40b15ed7fca3" name="Default Changelist" comment="day10">
+      <change afterPath="$PROJECT_DIR$/day12/源码/01 今日内容大纲" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/源码/02 作业讲解.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/源码/03 生成器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/源码/04 列表推导式，生成器表达式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/迭代器.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day06/03 小数据池， is ==id等.py" beforeDir="false" afterPath="$PROJECT_DIR$/day06/03 小数据池， is ==id等.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/源码/04 集合.py" beforeDir="false" afterPath="$PROJECT_DIR$/day07/源码/04 集合.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/源码/05 深浅copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/day07/源码/05 深浅copy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/集合.py" beforeDir="false" afterPath="$PROJECT_DIR$/day07/集合.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/04 str.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3/04 str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day5/课件源码/03 字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/day5/课件源码/03 字典.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/源码/05 迭代器.py" beforeDir="false" afterPath="$PROJECT_DIR$/day11/源码/05 迭代器.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day12/源码" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -97,11 +55,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\study_workspace\python2021\day12\源码" />
       <recent name="F:\study_workspace\python2021\day11" />
       <recent name="F:\study_workspace\python2021\day11\源码" />
       <recent name="F:\study_workspace\python2021\day10" />
       <recent name="F:\study_workspace\python2021\day10\源码" />
-      <recent name="F:\study_workspace\python2021\day09" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\study_workspace\python2021\day08-1" />
@@ -110,7 +68,7 @@
       <recent name="F:\study_workspace\python2021\day3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02 作业">
+  <component name="RunManager" selected="Python.05 迭代器">
     <configuration name="函数名的应用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,28 +135,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04 命名空间" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python2021" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day10/04 命名空间.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="05 函数的嵌套" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,13 +157,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="05 迭代器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day11/源码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day11/源码/05 迭代器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05 迭代器" />
         <item itemvalue="Python.02 作业" />
         <item itemvalue="Python.04 闭包" />
         <item itemvalue="Python.函数名的应用" />
-        <item itemvalue="Python.05 函数的嵌套" />
-        <item itemvalue="Python.04 命名空间" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +206,8 @@
       <workItem from="1614298817411" duration="19334000" />
       <workItem from="1614557500765" duration="14749000" />
       <workItem from="1614587440113" duration="1373000" />
-      <workItem from="1614644009566" duration="12835000" />
+      <workItem from="1614644009566" duration="15645000" />
+      <workItem from="1614730455079" duration="4513000" />
     </task>
     <task id="LOCAL-00001" summary="1 Day01">
       <created>1613805584800</created>
@@ -279,17 +237,62 @@
       <option name="project" value="LOCAL" />
       <updated>1614213858439</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="day10">
+      <created>1614670217578</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614670217578</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 Day01" />
     <MESSAGE value="day06" />
     <MESSAGE value="day07" />
-    <option name="LAST_COMMIT_MESSAGE" value="day07" />
+    <MESSAGE value="day10" />
+    <option name="LAST_COMMIT_MESSAGE" value="day10" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python2021$str.coverage" NAME="str Coverage Results" MODIFIED="1613955424064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
@@ -300,7 +303,7 @@
     <SUITE FILE_PATH="coverage/python2021$03_is____id.coverage" NAME="03 小数据池，is == id等 Coverage Results" MODIFIED="1614146172263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/源码" />
     <SUITE FILE_PATH="coverage/python2021$day08_.coverage" NAME="day08 作业讲解 Coverage Results" MODIFIED="1614248991257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08-1/源码" />
     <SUITE FILE_PATH="coverage/python2021$.coverage" NAME="函数名的应用 Coverage Results" MODIFIED="1614662212412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
-    <SUITE FILE_PATH="coverage/python2021$05_.coverage" NAME="05 函数的嵌套 Coverage Results" MODIFIED="1614588320167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
+    <SUITE FILE_PATH="coverage/python2021$05_.coverage" NAME="05 迭代器 Coverage Results" MODIFIED="1614731801506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11/源码" />
     <SUITE FILE_PATH="coverage/python2021$range.coverage" NAME="range Coverage Results" MODIFIED="1614047479045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
     <SUITE FILE_PATH="coverage/python2021$03_intbool.coverage" NAME="03 int，bool Coverage Results" MODIFIED="1613954420168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
     <SUITE FILE_PATH="coverage/python2021$04_.coverage" NAME="04 闭包 Coverage Results" MODIFIED="1614666941819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11/源码" />
