@@ -106,16 +106,16 @@
 l2 = [(1,1000),(2,18),(4,250),(3,500)]
 print(sorted(l2))
 
-# def func1(x):
-#     return x[1]
-# print(sorted(l2,key=func1,reverse=True))
+def func1(x):
+    return x[1]
+print(sorted(l2,key=func1,reverse=True))
 #　enumerate:枚举，返回一个枚举对象。
 
 # all：可迭代对象中，全都是True才是True  ***  多做条件判断
-# l1 = [1,'',[1,3],(2,4)]
-# print(all(l1))
+l1 = [1,'',[1,3],(2,4)]
+print(all(l1))
 # any：可迭代对象中，有一个True 就是True ***  多做条件判断
-# print(any([1,0,'',()]))
+print(any([1,0,'',()]))
 #
 # 　zip：函数用于将可迭代的对象作为参数，将对象中对应的元素打包成一个个元组，然后返回由这些元组组成的列表。 *****
 # 如果各个迭代器的元素个数不一致，则返回列表长度与最短的对象相同。
