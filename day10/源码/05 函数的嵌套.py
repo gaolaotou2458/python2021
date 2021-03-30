@@ -50,21 +50,21 @@
 # func2()
 # print(name)
     # 2，在局部名称空间可以对全局变量进行修改。
-# count = 1
-# def func1():
-#     global count
-#     count = count + 1
-#     print(count)
-# func1()
+count = 1
+def func1():
+    global count
+    count = count + 1
+    print(count)
+func1()
 # print(count)
 
 # nonlocal
-# def func1():
-#     count = 666
-#     def func2():
-#         print(count)
-#     func2()
-# func1()
+def func1():
+    count = 666
+    def func2():
+        print(count)
+    func2()
+func1()
 
 
 # nonlocal
@@ -73,19 +73,19 @@
 
 # 在局部作用域中，对父级作用域（或者更外层作用域非全局作用域）的变量进行引用和修改，
 # 并且引用的哪层，从那层及以下此变量全部发生改变。
-def func1():
-    count = 666
-    def inner():
-        print(count)
-        def func2():
-            nonlocal count
-            count += 1
-            print('func2',count)
-        func2()
-        print('inner',count)
-    inner()
-    print('func1',count)
-func1()
+# def func1():
+#     count = 666
+#     def inner():
+#         print(count)
+#         def func2():
+#             nonlocal count
+#             count += 1
+#             print('func2',count)
+#         func2()
+#         print('inner',count)
+#     inner()
+#     print('func1',count)
+# func1()
 #  666  func2 667  inner 667  func1 667
 #
 

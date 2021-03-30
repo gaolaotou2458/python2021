@@ -30,11 +30,11 @@ print(l1)
 # print(l5)
 
 #删选包含2个e的
-names = [['Tom', 'Billy', 'Jefferson', 'Andrew', 'Wesley', 'Steven', 'Joe'],
-         ['Alice', 'Jill', 'Ana', 'Wendy', 'Jennifer', 'Sherry', 'Eva']]
-print([j for i in names for j in i if j.count('e') == 2])
-l1 =[name for i in names for name in i if name.count('e') == 2]
-print(l1)
+# names = [['Tom', 'Billy', 'Jefferson', 'Andrew', 'Wesley', 'Steven', 'Joe'],
+#          ['Alice', 'Jill', 'Ana', 'Wendy', 'Jennifer', 'Sherry', 'Eva']]
+# print([j for i in names for j in i if j.count('e') == 2])
+# l1 =[name for i in names for name in i if name.count('e') == 2]
+# print(l1)
 
 '''列表推导式
 优点：一行解决，方便
@@ -42,14 +42,14 @@ print(l1)
 '''
 
 '''生成器表达式，将列表的[]换成（）'''
-g = (j for i in names for j in i if j.count('e') == 2)
+# g = (j for i in names for j in i if j.count('e') == 2)
 # print(g.__next__())
 # print(g.__next__())
 
-mcase = {'a':10,'b':34}
-#字典 键值对互换
-mcase_frequency = {mcase[k]: k for k in mcase}
-print(mcase_frequency)
+# mcase = {'a':10,'b':34}
+# #字典 键值对互换
+# mcase_frequency = {mcase[k]: k for k in mcase}
+# print(mcase_frequency)
 
 #返回平方并且集合去重
 squared = {x**2 for x in [1,-1,2]}
