@@ -11,7 +11,8 @@ classmethod:被装饰的类变成一个类方法
 类方法的特点：
     只使用类中的资源
         静态属性
-        普通方法
+        类方法
+        property 方法
 """
 class Goods:
     __discount = 0.8 #静态属性

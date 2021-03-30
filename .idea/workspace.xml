@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d174763-087d-49c1-b587-40b15ed7fca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day15/04 类名的使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/05 类名称空间、对象名称空间.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/02 作业讲解(1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/02组合.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/源码/01 今日内容大纲" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/源码/02 作业讲解(1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/源码/03 组合.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/源码/04 周末作业讲解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/源码/1.今日内容.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/源码/2.自我介绍.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/源码/3.作业需求分析(1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/源码/4.作业-精简版.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/源码/4.作业.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/源码/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/源码/record" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/源码/staff_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/03继承的例子.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/04继承与派生.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/源码/1.内容回顾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/源码/2.今日内容.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/源码/3.继承的楔子.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/源码/4.抽象类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/源码/5.多继承.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/源码/6.接口类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/源码/7.新式类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/源码/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/继承与派生.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/多态.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/封装.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/封装总结.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/源码/1.内容回顾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/源码/2.今日内容.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/源码/3.习题讲解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/源码/4.多态.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/源码/5.封装.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/源码/6.property内置函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/源码/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/classmethod和staticmethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/issubclass和isinstance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/property函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/源码/1.复习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/源码/2.序列化模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/源码/2.模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/源码/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/源码/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10/源码/03 函数 动态参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/day10/源码/03 函数 动态参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10/源码/05 函数的嵌套.py" beforeDir="false" afterPath="$PROJECT_DIR$/day10/源码/05 函数的嵌套.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day12/04 列表推导式，生成器表达式.py" beforeDir="false" afterPath="$PROJECT_DIR$/day12/04 列表推导式，生成器表达式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day20/classmethod和staticmethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/day20/classmethod和staticmethod.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,7 +238,7 @@
       <workItem from="1616717692159" duration="4876000" />
       <workItem from="1616725674057" duration="5956000" />
       <workItem from="1616976781994" duration="15162000" />
-      <workItem from="1617063038435" duration="4375000" />
+      <workItem from="1617063038435" duration="4702000" />
     </task>
     <task id="LOCAL-00001" summary="1 Day01">
       <created>1613805584800</created>
@@ -351,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616478185423</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="day20">
+      <created>1617067806990</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1617067806990</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,7 +361,8 @@
     <MESSAGE value="day11" />
     <MESSAGE value="day14" />
     <MESSAGE value="day15" />
-    <option name="LAST_COMMIT_MESSAGE" value="day15" />
+    <MESSAGE value="day20" />
+    <option name="LAST_COMMIT_MESSAGE" value="day20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -453,7 +413,7 @@
     <SUITE FILE_PATH="coverage/python2021$7_.coverage" NAME="7.新式类 Coverage Results" MODIFIED="1616737507172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18/源码" />
     <SUITE FILE_PATH="coverage/python2021$05_copy.coverage" NAME="05 深浅copy Coverage Results" MODIFIED="1614219878633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07/源码" />
     <SUITE FILE_PATH="coverage/python2021$01.coverage" NAME="01 Coverage Results" MODIFIED="1614153042510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07/源码" />
-    <SUITE FILE_PATH="coverage/python2021$classmethodstaticmethod.coverage" NAME="classmethod和staticmethod Coverage Results" MODIFIED="1617067130569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20" />
+    <SUITE FILE_PATH="coverage/python2021$classmethodstaticmethod.coverage" NAME="classmethod和staticmethod Coverage Results" MODIFIED="1617067717143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20" />
     <SUITE FILE_PATH="coverage/python2021$02__1_.coverage" NAME="02 作业讲解(1) Coverage Results" MODIFIED="1614061378434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
     <SUITE FILE_PATH="coverage/python2021$03_.coverage" NAME="03 内置函数一 Coverage Results" MODIFIED="1614926182091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13/源码" />
     <SUITE FILE_PATH="coverage/python2021$property.coverage" NAME="property函数 Coverage Results" MODIFIED="1617066178551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20" />
