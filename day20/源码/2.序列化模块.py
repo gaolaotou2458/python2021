@@ -29,24 +29,24 @@
 
 # json dumps序列化方法 loads反序列化方法
 # dic = {1:"a",2:'b'}
-# print(type(dic),dic)
+# # print(type(dic),dic)
 # import json
 # str_d = json.dumps(dic)   # 序列化
 # print(type(str_d),str_d)
-# # '{"kkk":"v"}'
+# '{"kkk":"v"}'
 # dic_d = json.loads(str_d) # 反序列化
 # print(type(dic_d),dic_d)
 
 import json
 # json dump load
-# dic = {1:"a",2:'b'}
-# f = open('fff','w',encoding='utf-8')
-# json.dump(dic,f)
-# f.close()
-# f = open('fff')
-# res = json.load(f)
-# f.close()
-# print(type(res),res)
+dic = {1:"a",2:'b'}
+f = open('fff','w',encoding='utf-8')
+json.dump(dic,f)
+f.close()
+f = open('fff')
+res = json.load(f)
+f.close()
+print(type(res),res)
 
 import json
 # json dump load
@@ -129,15 +129,15 @@ import pickle
 # f.close()
 # print(existing2)
 
-import shelve
+# import shelve
 # f1 = shelve.open('shelve_file')
 # print(f1['key'])
 # f1['key']['new_value'] = 'this was not here before'
 # f1.close()
 
-f2 = shelve.open('shelve_file', writeback=True)
-print(f2['key'])
+# f2 = shelve.open('shelve_file', writeback=True)
+# print(f2['key'])
 # f2['key']['new_value'] = 'this was not here before'
-f2.close()
+# f2.close()
 
 
