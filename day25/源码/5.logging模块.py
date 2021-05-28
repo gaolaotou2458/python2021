@@ -70,7 +70,7 @@ fh.setFormatter(fmt)
 sh.setFormatter(fmt2)
 sh.setLevel(logging.WARNING)
 # logger对象来绑定：文件操作符， 屏幕操作符
-logger.addHandler(sh)
+#logger.addHandler(sh)
 logger.addHandler(fh)
 
 
