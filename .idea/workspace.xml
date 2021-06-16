@@ -2,188 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d174763-087d-49c1-b587-40b15ed7fca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day26/4.模块frominport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/初始模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/.idea/day26.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/1.内容回顾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/2.今日内容.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/3.模块_import.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/4.模块_fromimport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/5.包.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/glance/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/glance/my_module2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/glance/my_module3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/my_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance2/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance2/api/policy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance2/api/versions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance2/cmd/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance2/cmd/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance2/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance2/db/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance3/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance3/api/policy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance3/api/versions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance3/cmd/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance3/cmd/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance3/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/outer/glance3/db/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/pak/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/.idea/student_select_course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/bin/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/bin/start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/conf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/conf/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/core/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/core/core.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/db/userinfo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/log/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day26/源码/student_select_course/log/my_log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/2.习题讲解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/正则.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/源码/1.内容回顾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/源码/2.习题讲解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/源码/2.今日内容.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/源码/3.正则表达式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/源码/4.re模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/源码/5.练习题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/源码/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/源码/txtfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/源码/模块导入练习/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/源码/模块导入练习/bin/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/源码/模块导入练习/bin/start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/源码/模块导入练习/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/源码/模块导入练习/core/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day27/源码/模块导入练习/core/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/re模块补充.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/源码/1.内容回顾(1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/源码/2.习题讲解.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/源码/3.今日内容.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/源码/4.re模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/源码/5.爬虫的例子.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/源码/6.爬虫预备知识.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/源码/7.异常处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/源码/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/源码/content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/源码/move_info7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day28/爬虫的例子.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29/源码/1.内容回顾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29/源码/2.网络编程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29/源码/3.今日内容.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29/源码/4.笔记.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day29/源码/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/1.内容回顾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/2.今日内容.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/3.cs架构和bs架构.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/4 demo1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/4 demo1/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/4 demo1/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/4 demo1/基本语法的总结.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/5 demo2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/5 demo2/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/5 demo2/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/6 demo3/4.笔记.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/6 demo3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/6 demo3/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/6 demo3/move_info7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/6 demo3/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/7 udp_demo1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/7 udp_demo1/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/7 udp_demo1/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/7 udp_demo1/程序的总结.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/8 udp_demo2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/8 udp_demo2/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/8 udp_demo2/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/9.总结.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day30/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/1.内容回顾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/2.今日内容.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/3 作业讲解1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/3 作业讲解1/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/3 作业讲解1/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/4 作业讲解2/client_nezha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/4 作业讲解2/client_yuan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/4 作业讲解2/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/5 作业讲解3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/5 作业讲解3/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/5 作业讲解3/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/6 粘包现象/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/6 粘包现象/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/6 粘包现象/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/6.粘包现象.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/7 解决粘包现象1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/7 解决粘包现象1/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/7 解决粘包现象1/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/7.struct模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/8 解决粘包现象2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/8 解决粘包现象2/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/8 解决粘包现象2/server(1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/9 文件的上传和下载/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/9 文件的上传和下载/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/9 文件的上传和下载/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day31/源码/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/client/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/client/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/server/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/server/operate_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/server/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/socketserver模块/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/socketserver模块/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/socketserver模块/server_socketserver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/socket模块综合.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/1.内容回顾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/2.今日内容.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/3.socket模块综合.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/4 验证客户端链接的合法性/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/4 验证客户端链接的合法性/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/4 验证客户端链接的合法性/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/5 socketserver模块/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/5 socketserver模块/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/5 socketserver模块/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/5 socketserver模块/server_socketserver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/ftp.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/ftp/.idea/ftp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/ftp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/ftp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/ftp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/ftp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/ftp/client/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/ftp/client/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/ftp/server/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/ftp/server/operate_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/ftp/server/root/luke/6.udp协议.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/源码/ftp/server/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/验证客户端链接的合法性/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day32/验证客户端链接的合法性/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day33/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day33/源码/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/技术分享/mysql暴力破解/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/技术分享/mysql暴力破解/mysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/技术分享/mysql暴力破解/pass1000.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/技术分享/mysql暴力破解/passwords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/技术分享/二分查找/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试题/轰炸3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试题/轰炸可用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day33/multiprocessing模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/5守护进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/Porcess类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/ticket" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/事件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/信号量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/源码/1.内容回顾.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/源码/2 作业讲解/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/源码/2 作业讲解/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/源码/2 作业讲解/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/源码/3.今日内容.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/源码/4.Process类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/源码/5.守护进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/源码/6.锁.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/源码/7.信号量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/源码/8.事件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/源码/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/源码/ticket" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day34/锁.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day25/logging模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/day25/logging模块.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day25/源码/5.logging模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/day25/源码/5.logging模块.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +57,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/day25/源码/mylog.log" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/技术分享/mysql暴力破解" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day34/源码" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.YAML" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -232,11 +70,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\study_workspace\python2021\day34\源码" />
+      <recent name="F:\study_workspace\python2021\day33\源码" />
       <recent name="F:\study_workspace\python2021\技术分享\mysql暴力破解" />
       <recent name="F:\study_workspace\python2021\day32\源码" />
       <recent name="F:\study_workspace\python2021\day31\源码" />
-      <recent name="F:\study_workspace\python2021\day30" />
-      <recent name="F:\study_workspace\python2021\day29\源码" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\study_workspace\python2021\day32\server" />
@@ -246,8 +84,8 @@
       <recent name="F:\study_workspace\python2021\day08-1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mysql">
-    <configuration name="client (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.5守护进程">
+    <configuration name="锁" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,12 +93,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day32/client" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day34" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day32/client/client.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day34/锁.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5守护进程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,12 +115,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day32/socketserver模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day34" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day32/socketserver模块/client.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day34/5守护进程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Porcess类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,12 +137,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/技术分享/mysql暴力破解" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day34" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/技术分享/mysql暴力破解/mysql.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day34/Porcess类.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="信号量" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,12 +159,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day32/server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day34" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day32/server/server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day34/信号量.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="server_socketserver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="事件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,12 +181,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day32/socketserver模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day34" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day32/socketserver模块/server_socketserver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day34/事件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,11 +197,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mysql" />
-        <item itemvalue="Python.client (2)" />
-        <item itemvalue="Python.server" />
-        <item itemvalue="Python.client" />
-        <item itemvalue="Python.server_socketserver" />
+        <item itemvalue="Python.锁" />
+        <item itemvalue="Python.5守护进程" />
+        <item itemvalue="Python.Porcess类" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +267,14 @@
       <workItem from="1621410644864" duration="4426000" />
       <workItem from="1621489757861" duration="8064000" />
       <workItem from="1621844285410" duration="2646000" />
-      <workItem from="1622178902278" duration="3720000" />
+      <workItem from="1622178902278" duration="6027000" />
+      <workItem from="1622535585943" duration="429000" />
+      <workItem from="1622598162244" duration="1487000" />
+      <workItem from="1622616862270" duration="907000" />
+      <workItem from="1622689599818" duration="1939000" />
+      <workItem from="1623035189638" duration="11333000" />
+      <workItem from="1623301367817" duration="8128000" />
+      <workItem from="1623387956846" duration="5885000" />
     </task>
     <task id="LOCAL-00001" summary="1 Day01">
       <created>1613805584800</created>
@@ -524,7 +367,21 @@
       <option name="project" value="LOCAL" />
       <updated>1618987722142</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="day25">
+      <created>1622184138540</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1622184138540</updated>
+    </task>
+    <task id="LOCAL-00015" summary="day33">
+      <created>1622184280145</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1622184280145</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -577,7 +434,8 @@
     <MESSAGE value="day15" />
     <MESSAGE value="day20" />
     <MESSAGE value="day25" />
-    <option name="LAST_COMMIT_MESSAGE" value="day25" />
+    <MESSAGE value="day33" />
+    <option name="LAST_COMMIT_MESSAGE" value="day33" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -613,6 +471,7 @@
     <SUITE FILE_PATH="coverage/python2021$issubclassisinstance.coverage" NAME="issubclass和isinstance Coverage Results" MODIFIED="1617066738357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20" />
     <SUITE FILE_PATH="coverage/python2021$del.coverage" NAME="del Coverage Results" MODIFIED="1617689647751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22" />
     <SUITE FILE_PATH="coverage/python2021$2.coverage" NAME="轰炸可用 Coverage Results" MODIFIED="1619056411545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试题" />
+    <SUITE FILE_PATH="coverage/python2021$5.coverage" NAME="5守护进程 Coverage Results" MODIFIED="1623308970752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day34" />
     <SUITE FILE_PATH="coverage/python2021$03_intbool.coverage" NAME="03 int，bool Coverage Results" MODIFIED="1613954420168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
     <SUITE FILE_PATH="coverage/python2021$settings_1_.coverage" NAME="settings(1) Coverage Results" MODIFIED="1619421793945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day26/源码/student_select_course/conf" />
     <SUITE FILE_PATH="coverage/python2021$client__2_.coverage" NAME="client (2) Coverage Results" MODIFIED="1621496512574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day32/client" />
@@ -634,7 +493,7 @@
     <SUITE FILE_PATH="coverage/python2021$02_my_1_.coverage" NAME="02 my作业讲解(1) Coverage Results" MODIFIED="1614151604400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
     <SUITE FILE_PATH="coverage/python2021$day08_.coverage" NAME="day08 作业讲解 Coverage Results" MODIFIED="1614248991257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08-1/源码" />
     <SUITE FILE_PATH="coverage/python2021$04.coverage" NAME="04时间模块 Coverage Results" MODIFIED="1618299100174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day23" />
-    <SUITE FILE_PATH="coverage/python2021$.coverage" NAME="轰炸可用 Coverage Results" MODIFIED="1620366103120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试题" />
+    <SUITE FILE_PATH="coverage/python2021$.coverage" NAME="事件 Coverage Results" MODIFIED="1623393164598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day34" />
     <SUITE FILE_PATH="coverage/python2021$demo.coverage" NAME="demo Coverage Results" MODIFIED="1617066432954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day20/源码" />
     <SUITE FILE_PATH="coverage/python2021$05_.coverage" NAME="05 随机数模块 Coverage Results" MODIFIED="1618302926950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day23" />
     <SUITE FILE_PATH="coverage/python2021$client__1_.coverage" NAME="client (1) Coverage Results" MODIFIED="1621305955132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day32/验证客户端链接的合法性" />
@@ -657,6 +516,7 @@
     <SUITE FILE_PATH="coverage/python2021$__hash__.coverage" NAME="__hash__ Coverage Results" MODIFIED="1617692739670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22" />
     <SUITE FILE_PATH="coverage/python2021$5_logging.coverage" NAME="5.logging模块 Coverage Results" MODIFIED="1618994060319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day25/源码" />
     <SUITE FILE_PATH="coverage/python2021$03_is____id.coverage" NAME="03 小数据池，is == id等 Coverage Results" MODIFIED="1614146172263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/源码" />
+    <SUITE FILE_PATH="coverage/python2021$multiprocessing.coverage" NAME="multiprocessing模块 Coverage Results" MODIFIED="1623054827109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day33" />
     <SUITE FILE_PATH="coverage/python2021$collections.coverage" NAME="collections Coverage Results" MODIFIED="1618797223480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day24" />
     <SUITE FILE_PATH="coverage/python2021$pickle.coverage" NAME="pickle补充 Coverage Results" MODIFIED="1617845633723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day22" />
     <SUITE FILE_PATH="coverage/python2021$hashlib.coverage" NAME="hashlib大文件 Coverage Results" MODIFIED="1618967826626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day25" />
@@ -674,6 +534,7 @@
     <SUITE FILE_PATH="coverage/python2021$02___1_.coverage" NAME="02 作业 (1) Coverage Results" MODIFIED="1614755801440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12" />
     <SUITE FILE_PATH="coverage/python2021$5_.coverage" NAME="5.爬虫的例子 Coverage Results" MODIFIED="1619586878199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day28/源码" />
     <SUITE FILE_PATH="coverage/python2021$os__1_.coverage" NAME="os模块 (1) Coverage Results" MODIFIED="1618537420153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试题" />
+    <SUITE FILE_PATH="coverage/python2021$Porcess.coverage" NAME="Porcess类 Coverage Results" MODIFIED="1623308009527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day34" />
     <SUITE FILE_PATH="coverage/python2021$__1_.coverage" NAME="轰炸可用 (1) Coverage Results" MODIFIED="1619506058668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面试题" />
     <SUITE FILE_PATH="coverage/python2021$range.coverage" NAME="range Coverage Results" MODIFIED="1614047479045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
     <SUITE FILE_PATH="coverage/python2021$5_2.coverage" NAME="5.作业讲解2 Coverage Results" MODIFIED="1618810340038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day21/选课系统-作业讲解/student_select_course2" />
